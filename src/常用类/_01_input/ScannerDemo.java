@@ -1,4 +1,4 @@
-package com.valor._01_input.copy;
+package ≥£”√¿‡._01_input;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.valor._05_random;
+package ³£ÓÃÀà._05_random;
 
 import java.util.Random;
 

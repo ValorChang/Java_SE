@@ -1,4 +1,4 @@
-package com.valor._05_random;
+package ≥£”√¿‡._05_random;
 
 import java.util.UUID;
 import java.util.concurrent.ThreadLocalRandom;
